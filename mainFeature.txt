@@ -1,1 +1,4 @@
 my feature
+
+git installation and acc creation
+git cheatsheet - 3
